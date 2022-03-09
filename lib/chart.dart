@@ -17,7 +17,7 @@ class _ChartState extends State<Chart> {
 
   getData() async {
     final parameters = {
-      'api_key': 'TL5ukBpapkqjs1Gxiuy-',
+      'api_key': 'xxxxxxxxxx',
       'start_date': '2021-01-01',
       'end_date': '2021-03-31',
     };
